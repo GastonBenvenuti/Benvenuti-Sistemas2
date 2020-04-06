@@ -30,10 +30,12 @@ class Contacto
         {
             return telefono;
         }
-        Contacto getContac (){
+        Contacto getContac()
+        {
             return Contacto();
         }
-        string getMAil(){
+        string getMAil()
+        {
             return mail;
         }
 };
